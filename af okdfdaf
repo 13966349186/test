@@ -1,0 +1,26 @@
+[1mdiff --git a/111.txt b/111.txt[m
+[1mindex 44f64bc..937302b 100644[m
+[1m--- a/111.txt[m
+[1m+++ b/111.txt[m
+[36m@@ -1,6 +1,17 @@[m
+ [m
+[31m-i2o12[m
+[32m+[m[32mi2oc12[m
+[32m+[m
+ 321[m
+ 3213125[m
+[32m+[m[32m4324243243242432rewarewr[m
+ 151[m
+[31m-3213[m
+\ No newline at end of file[m
+[32m+[m[32m3213[m
+[32m+[m[32mgit config --global diff.tool bc4[m
+[32m+[m[32mgit config --global difftool.prompt false[m
+[32m+[m[32mgitftft[m
+[32m+[m[32m config --global difftool.bc4.cmd '"D:\Beyond compare\Beyond Compare 4\BCompare.exe" "$LOCAL" "$REMOTE"'[m
+[32m+[m
+[32m+[m[32mgit config --global merge.tool bc4[m
+[32m+[m[32mgit config --global mergetool.prompt false[m
+[32m+[m[32mgit config --global mergetool.bc4.cmd '"D:\Beyond compare\Beyond Compare 4\BCompare.exe" "$LOCAL" "$REMOTE" "$BASE" "$MERGED"'[m
+[32m+[m[32mgit config --global mergetool.bc4.trustexitcode true[m
+\ No newline at end of file[m

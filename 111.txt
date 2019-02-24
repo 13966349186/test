@@ -1,2 +1,17 @@
 
-i2o12
+i2oc12
+
+321
+3213125
+4324243243242432rewarewr
+151
+3213
+git config --global diff.tool bc4
+git config --global difftool.prompt false
+gitftft
+ config --global difftool.bc4.cmd '"D:\Beyond compare\Beyond Compare 4\BCompare.exe" "$LOCAL" "$REMOTE"'
+
+git config --global merge.tool bc4
+git config --global mergetool.prompt false
+git config --global mergetool.bc4.cmd '"D:\Beyond compare\Beyond Compare 4\BCompare.exe" "$LOCAL" "$REMOTE" "$BASE" "$MERGED"'
+git config --global mergetool.bc4.trustexitcode true
