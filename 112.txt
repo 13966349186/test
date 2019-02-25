@@ -6,8 +6,9 @@ i2oc12
 4324243243242432rewarewr
 151
 1231
+321
 3213
-git config --global diff.tool bc4
+git config --global32132 diff.tool bc4
 git config --global difftool.prompt false
 gitftft
  config --global difftool.bc4.cmd '"D:\Beyond compare\Beyond Compare 4\BCompare.exe" "$LOCAL" "$REMOTE"'
