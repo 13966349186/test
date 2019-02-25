@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9e4cffa-b29c-4252-8cae-130e47b6fc16" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/112.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/112.txt" beforeDir="false" afterPath="$PROJECT_DIR$/112.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +34,16 @@
         <entry file="file://$PROJECT_DIR$/112.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -122,10 +131,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7948000" />
+    <option name="totallyTimeSpent" value="7954000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="561" y="476" width="1779" height="947" extended-state="0" />
+    <frame x="121" y="514" width="1779" height="1062" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" x="1504" y="63" width="143" height="987" id="Project" order="0" visible="true" weight="0.08564946" />
@@ -142,7 +151,7 @@
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32880434" />
       <window_info anchor="bottom" id="调试" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.26871166" />
+      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.23548387" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="运行" order="13" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
@@ -187,13 +196,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/123.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/123.txt" />
     <entry file="file://$PROJECT_DIR$/djsaf">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -201,6 +204,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -214,7 +224,7 @@
     <entry file="file://$PROJECT_DIR$/112.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
