@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 i2oc12
@@ -27,3 +28,6 @@ git config --global mergetool.bc4.trustexitcode true
 
 213
 
+=======
+2131213
+>>>>>>> new
