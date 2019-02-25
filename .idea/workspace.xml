@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9e4cffa-b29c-4252-8cae-130e47b6fc16" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/112.txt" beforeDir="false" afterPath="$PROJECT_DIR$/112.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/112.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -42,8 +43,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="203" />
-    <option name="y" value="591" />
+    <option name="x" value="742" />
+    <option name="y" value="500" />
     <option name="width" value="1779" />
     <option name="height" value="947" />
   </component>
@@ -98,15 +99,15 @@
       <workItem from="1551020689399" duration="68000" />
       <workItem from="1551021134043" duration="772000" />
       <workItem from="1551101115006" duration="1614000" />
-      <workItem from="1551102746948" duration="3642000" />
+      <workItem from="1551102746948" duration="4187000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6096000" />
+    <option name="totallyTimeSpent" value="6641000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="203" y="591" width="1779" height="947" extended-state="0" />
+    <frame x="333" y="342" width="1779" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" x="1504" y="63" width="143" height="987" id="Project" order="0" visible="true" weight="0.08564946" />
@@ -181,8 +182,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/112.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
