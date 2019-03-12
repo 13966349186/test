@@ -1,17 +1,22 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 oqjeoiwqjioewqjoejwqojoijweoiqjeowqjeoiwqjoijiojfoasf
 dsafasfdsafdsafdsafdddddddd
 
+=======
+
+31313131313
+>>>>>>> 77dcd603faba663ad3e54ebcf60d30b0fdfe0412
 i2oc12
 321
 
 321312
-3213125323213
+321312532321332132132132131321
 3213
 
 321312321312
 32131253233213
-
+21
 4324243243242432rewarewr
 151321
 1231
@@ -26,9 +31,9 @@ git config --global merge.tool bc4
 git config --global mergetool.prompt false
 git config --global mergetool.bc4.cmd '"D:\Beyond compare\Beyond Compare 4\BCompare.exe" "$LOCAL" "$REMOTE" "$BASE" "$MERGED"'
 git config --global mergetool.bc4.trustexitcode true
-
+321312321
 213
-
+3123213
 =======
 2131213
 >>>>>>> new
