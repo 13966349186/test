@@ -1,5 +1,5 @@
 {
-    "name": "g/new",
+    "name": "ckg/new",
     "description": "描述",
     "type": "library",
     "require": {
