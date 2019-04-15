@@ -1,0 +1,9 @@
+{
+    "name": "g/neww",
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"Abstarfish\\Starfish\\": "src/Abstarfish/Starfish"
+    	}
+    }
+}
