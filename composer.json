@@ -1,15 +1,17 @@
 {
     "name": "ckg/new",
-    "description": "描述",
-    "type": "library",
-    "require": {
-        "php": ">=7.0"
-    },
+    "description": "描述1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yu",
+            "email": "1846721817@qq.com"
+        }
+    ],
+    "require": {},
     "autoload": {
-      "psr-4": {
-        "app\\core\\": [
-          "core/"
-        ]
-      }
-  }
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
 }
