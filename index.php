@@ -4,9 +4,9 @@
  * copyright: Copyright (c) 2020 浙江禾匠信息科技有限公司
  * author: xay
  */
-require_once "./vendor/autoload.php";
+require_once "./src/Tools.php";
 
-use src\Tools;
+use ckg\src\Tools;
 
 $a = new Tools();
 echo $a::Hello();
